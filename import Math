@@ -1,0 +1,36 @@
+import math
+
+# Retorna a raiz quadrada de x
+print(math.sqrt(9))  # Saída: 3.0
+
+# Retorna x elevado à potência y
+print(math.pow(2, 3))  # Saída: 8.0
+
+# Retorna o menor número inteiro maior ou igual a x
+print(math.ceil(4.3))  # Saída: 5
+
+# Retorna o maior número inteiro menor ou igual a x
+print(math.floor(4.7))  # Saída: 4
+
+# Retorna o fatorial de x (inteiros não negativos)
+print(math.factorial(5))  # Saída: 120
+
+# Retorna o logaritmo de x na base especificada
+print(math.log(10))        # Saída: 2.302585092994046 (logaritmo natural)
+print(math.log(100, 10))   # Saída: 2.0 (logaritmo na base 10)
+
+# Retorna e elevado à potência x
+print(math.exp(2))  # Saída: 7.38905609893065
+
+# Retornam o seno, cosseno e tangente de x (em radianos)
+print(math.sin(math.pi / 2))  # Saída: 1.0
+print(math.cos(0))            # Saída: 1.0
+print(math.tan(math.pi / 4))  # Saída: 1.0
+
+# Convertem entre graus e radianos
+print(math.radians(180))    # Saída: 3.141592653589793 (pi)
+print(math.degrees(math.pi))  # Saída: 180.0
+
+# Constantes pi e e
+print(math.pi)  # Saída: 3.141592653589793
+print(math.e)   # Saída: 2.718281828459045
