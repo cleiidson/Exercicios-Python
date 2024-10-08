@@ -1,0 +1,22 @@
+'''    O que é import random?
+    Módulo Random: O random é um módulo embutido em Python que fornece funções para gerar números aleatórios e realizar operações aleatórias.
+    Importação do Módulo: A instrução import random é usada para importar o módulo random para que você possa usar suas funções em seu programa.
+    Funções Comuns do Módulo random
+    Aqui estão algumas das funções mais comuns que você pode encontrar no módulo random:
+
+    random.randint(a, b):
+
+    Gera um número inteiro aleatório entre a e b, incluindo ambos.
+    Exemplo: random.randint(1, 10) pode gerar qualquer número entre 1 e 10.
+    random.random():
+
+    Retorna um número de ponto flutuante aleatório entre 0.0 e 1.0.
+    Exemplo: random.random() pode retornar 0.374 ou 0.785, etc.
+    random.choice(seq):
+
+    Escolhe um item aleatório de uma sequência (como uma lista ou uma string).
+    Exemplo: random.choice(['maçã', 'banana', 'laranja']) pode retornar 'banana'.
+    random.shuffle(x):
+
+    Embaralha os itens de uma lista em ordem aleatória. A lista original é modificada.
+    Exemplo: Se x = [1, 2, 3], após random.shuffle(x), x pode se tornar [3, 1, 2].'''
