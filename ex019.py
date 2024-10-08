@@ -18,9 +18,13 @@ alunos = [nm1, nm2, nm3, nm4]
 sorteado = random.choice(alunos)
 
 # Exibe o nome do aluno sorteado
+<<<<<<< HEAD
 print(f'O sorteado foi o aluno {sorteado}.')
 
 a = 19 // 2
 o = 19 % 2
 
 print(f'o {a} e o {o}')
+=======
+print(f'O sorteado foi o aluno {sorteado}.')
+>>>>>>> d56fd794d00c4caf86f6a3692b4ef676ec34fe31
