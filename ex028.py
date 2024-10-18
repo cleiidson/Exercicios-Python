@@ -1,5 +1,5 @@
 '''
-FAÇA UM PROGRAMA QUE LEIA O NOME COMPLETO DE UMA PESSOA, MOSTRANDO EM SEGUIDA O PRIMEIRO E O ULTIMO NOME SEPARADAMENTE.
+FAÇA UM PROGRAMA QUE LEIA O NOME COMPLETO DE UMA PESSOA, MOSTRANDO EM SEGUIDA O PRIMEIRO E O ÚLTIMO NOME SEPARADAMENTE.
 '''
 # Solicita ao usuário que insira seu nome completo e remove espaços em branco no início e no final
 name = str(input('Insira o seu nome completo: ')).strip()

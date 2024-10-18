@@ -1,0 +1,69 @@
+O que é o for?
+
+O for é uma forma de repetir ações várias vezes.
+(for = para / "para cada coisa, faça isso").
+Como ele funciona?
+
+Ele repete o código para cada item em uma sequência de coisas (como números, palavras, etc.).
+(para cada item em algo, faça isso).
+
+Usando range()
+
+O range() cria uma sequência de números.
+(range = intervalo).
+Por exemplo:
+
+for i in range(5):
+    print(i)
+
+Explicação:
+
+for significa que você vai repetir algo.
+(para cada número de 0 até 4).
+range(5) cria os números de 0 a 4.
+(cria uma lista de 5 números).
+print(i) mostra o número atual.
+(mostra o valor de "i").
+Pensa assim: "para cada número de 0 a 4, eu vou fazer alguma coisa".
+
+
+# Exemplo 1: Contando de 0 a 6, pulando de 2 em 2
+for c in range(0, 7, 2):  # O range(0, 7, 2) começa em 0, vai até 6, e pula de 2 em 2
+    print(c)  # Exibe o valor de 'c' em cada passo
+print('Fim')  # Após o laço, imprime 'Fim'
+
+# Exemplo 2: Contando de 1 até 5 (o último valor é ignorado)
+for c in range(1, 6):  # O range(1, 6) vai de 1 a 5, pois o número final é ignorado
+    print(c)  # Exibe o valor de 'c' em cada passo
+print('Fim')  # Após o laço, imprime 'Fim'
+
+# Exemplo 3: Contando de 1 até 6 (o último valor também é ignorado)
+for c in range(1, 7):  # O range(1, 7) vai de 1 a 6
+    print(c)  # Exibe o valor de 'c' em cada passo
+print('Fim')  # Após o laço, imprime 'Fim'
+
+# Exemplo 4: Contando de trás para frente (de 6 até 1)
+for c in range(6, 0, -1):  # O range(6, 0, -1) vai de 6 até 1, decrementando 1 a cada passo
+    print(c)  # Exibe o valor de 'c' em cada passo
+print('Fim')  # Após o laço, imprime 'Fim'
+
+# Exemplo 5: Pedindo ao usuário um número e contando de 0 até esse número
+n = int(input('Digite um número'))  # Pede ao usuário para digitar um número
+for i in range(0, n+1):  # O range(0, n+1) vai de 0 até o número digitado
+    print(i)  # Exibe o valor de 'i' em cada passo
+print('FIM')  # Após o laço, imprime 'Fim'
+
+# Exemplo 6: Contando com início, fim e passo definidos pelo usuário
+i = int(input('Início: '))  # Pede ao usuário para digitar o valor inicial
+f = int(input('Fim: '))  # Pede ao usuário para digitar o valor final
+p = int(input('Passo: '))  # Pede ao usuário para digitar o valor do passo (incremento)
+for c in range(i, f+1, p):  # O range(i, f+1, p) usa os valores fornecidos pelo usuário
+    print(c)  # Exibe o valor de 'c' em cada passo
+print('Fim')  # Após o laço, imprime 'Fim'
+
+# Exemplo 7: Somando vários valores digitados pelo usuário
+s = 0  # Inicializa a variável 's' como 0, onde será armazenada a soma
+for c in range(0, 4):  # O range(0, 4) vai de 0 a 3, repetindo o laço 4 vezes
+    j = int(input('Digite um valor: '))  # Pede ao usuário para digitar um valor
+    s += j  # Adiciona o valor digitado à soma 's'
+print(f'A somatória de todos os valores é {s}')  # Exibe a soma total

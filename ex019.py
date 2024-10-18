@@ -1,4 +1,4 @@
-''' UM PROFFESSOR QUER SORTEAR UM DOS SEUS QUATRO ALUNOS PARA APAGAR O QUADRO.
+''' UM PROFESSOR QUER SORTEAR UM DOS SEUS QUATRO ALUNOS PARA APAGAR O QUADRO.
 FAÇA UM PROGRAMA QUE AJUDE ELE, LENDO O NOME DELES E ESCREVENDO O NOME DO ESCOLHIDO.
 '''
 import random  # Importa o módulo random para gerar números aleatórios
@@ -20,7 +20,7 @@ sorteado = random.choice(alunos)
 # Exibe o nome do aluno sorteado
 print(f'O sorteado foi o aluno {sorteado}.')
 
+# (Se a parte inferior for de outra versão)
 a = 19 // 2
 o = 19 % 2
-
 print(f'o {a} e o {o}')
