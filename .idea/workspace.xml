@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0c1072b-e7d7-44f9-926c-08fad204d790" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cores no terminal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura de repetição for" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex057.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex059.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex068.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex039.py" afterDir="false" />
-    </list>
+    <list default="true" id="f0c1072b-e7d7-44f9-926c-08fad204d790" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
